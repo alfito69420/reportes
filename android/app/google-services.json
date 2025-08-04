@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315156959888",
+    "project_id": "listas-9b07b",
+    "storage_bucket": "listas-9b07b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315156959888:android:b3ca1c021b7239d699be15",
+        "android_client_info": {
+          "package_name": "com.example.listas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Y28uw54hgJy2AswHrR_SbTwiO_h19fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
