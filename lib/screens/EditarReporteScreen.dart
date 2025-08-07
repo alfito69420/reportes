@@ -185,9 +185,10 @@ class _EditarReporteScreenState extends State<EditarReporteScreen> {
       'direccion': direccionController.text,
       'telefono': telefonoController.text,
       'material': materialController.text,
+      'observaciones': observacionesController.text,
     });
 
-    Navigator.pop(context); // Regresa a la pantalla anterior
+    Navigator.pop(context, true); // Regresa a la pantalla anterior
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(content: Text('Reporte actualizado')),
     );
